@@ -1,6 +1,8 @@
 # Hi, I'm Tobias
 I am a Computer Science student at [Rensselaer Polytechnic Institute](https://rpi.edu), where I am earning both my B.S. (3.88 GPA, May 2021) and M.S. (May 2022) in Computer Science. I am proficient in Python, Java, and C++. I am primarily interested in the fields of algorithms and cloud computing and am searching for full-time positions in industry after graduation.  
 
+[LinkedIn/Resume](https://www.linkedin.com/in/parkt3/) | [Personal Webpage](https://kd2eom.github.io)
+
 <!--
 **kd2eom/kd2eom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
